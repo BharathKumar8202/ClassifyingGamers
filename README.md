@@ -1,4 +1,4 @@
-# Problem 1: Classifying Gamer Engagement Levels 🎮
+# Classifying Gamer Engagement Levels 🎮
 
 **Overview:**  
 This problem dives into analyzing gamer engagement using cool ML algorithms. We are using KNN and Random Forest to classify gamers into Low, Medium, and High engagement tiers. Then, we explore data preprocessing and multiclass classification using Azure ML Designer.
