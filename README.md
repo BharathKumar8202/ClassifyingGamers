@@ -1,14 +1,15 @@
-## Task 1: Classification of Gamers
+# Problem 1: Classifying Gamer Engagement Levels 🎮
 
-### Introduction to the Dataset
-This dataset offers a comprehensive view of player behavior in online gaming environments. The goal is to predict player engagement levels—categorized as 'High', 'Medium', and 'Low'—using classification models. Insights from this analysis can enhance game design, marketing strategies, and player retention mechanisms.
+**Overview:**  
+This problem dives into analyzing gamer engagement using cool ML algorithms. We are using KNN and Random Forest to classify gamers into Low, Medium, and High engagement tiers. Then, we explore data preprocessing and multiclass classification using Azure ML Designer.
 
-### Objective
-The primary objective is to build classification models to predict player engagement levels (High, Medium, Low).
+**What's Inside:**  
+- **Data & EDA:** Load the gamer dataset, clean it up, encode features, and perform exploratory analysis.  
+- **Models:** Train and evaluate Random Forest & KNN classifiers with metrics, confusion matrices, and ROC curves.  
+- **Azure ML Designer:** Build a pipeline for multiclass classification using Logistic Regression and Decision Forest, then compare their performance.
+- 
 
-### Result
-- A summary of the classification performance of KNN and Random Forest algorithms.
-- Detailed discussion on the strengths, weaknesses, and suitability of each model for this dataset.
-- Recommendations based on the results to optimize gaming strategies.
+**Why It Rocks:**  
+This problem not only sharpens your ML skills but also shows off your ability to blend traditional coding with cloud-based ML tools—perfect for boosting player retention strategies! 🚀
 
 ---
